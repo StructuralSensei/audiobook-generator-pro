@@ -1,0 +1,3 @@
+customtkinter
+edge-tts
+pypdf
